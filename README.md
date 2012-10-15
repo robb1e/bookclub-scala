@@ -22,3 +22,8 @@ Some examples of Scala while reading "Seven Languages in Seven weeks" for Bookcl
 * Implicit Parameters
 * Implicit Conversions
 * Operators
+* Types
+
+## Further Reading
+
+* (Twitter Scala School)[http://twitter.github.com/scala_school]
